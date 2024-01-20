@@ -4,7 +4,7 @@
 
 Update: 2024/01/10: We have created a repository for the paper titled *Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs*, which has been submitted to the *SIGIR2024*. In this repository, we offer the original sample datasets, preprocessing scripts, and algorithm files to showcase the reproducibility of our work.
 
-![image-20240110203339842](https://s2.loli.net/2024/01/10/njyp3FRfc6kLdOV.png)
+![image-20240120094651475](https://s2.loli.net/2024/01/20/DztabiuLphm4EOA.png)
 
 ## Requirements
 
@@ -24,6 +24,8 @@ Update: 2024/01/10: We have created a repository for the paper titled *Collabora
 - transformers==4.31.0
 
 ## Data Sets
+
+Owing to the copyright stipulations associated with the dataset, we are unable to provide direct upload access. However, it can be readily obtained by downloading directly from the official website: [AmazonDatasets](https://cseweb.ucsd.edu/~jmcauley/datasets/amazon_v2/); [Movie-Lens Datasest](https://grouplens.org/datasets/movielens/)
 
 The structure of the data set should be like,
 
