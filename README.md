@@ -2,7 +2,7 @@
 
 ## About Our Work
 
-Update: 2024/03/29: We have created a repository for the paper titled *Collaborative Knowledge Fusion: A Novel Approach for Multi-task Recommender Systems via LLMs*, which has been submitted to the *TOIS2024*. In this repository, we offer the original sample datasets, preprocessing scripts, and algorithm files to showcase the reproducibility of our work.
+Update: 2024/10/28: We have created a repository for the paper titled *Collaborative Knowledge Fusion: A Novel Method for Multi-task Recommender Systems via LLMs*, which has been submitted to the *TKDE2024*. In this repository, we offer the original sample datasets, preprocessing scripts, and algorithm files to showcase the reproducibility of our work.
 
 ![image-20240120094651475](https://s2.loli.net/2024/01/20/DztabiuLphm4EOA.png)
 
