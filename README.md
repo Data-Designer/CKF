@@ -2,7 +2,7 @@
 
 ## About Our Work
 
-Update: 2024/10/28: We have created a repository for the paper titled *Collaborative Knowledge Fusion: A Novel Method for Multi-task Recommender Systems via LLMs*, which has been submitted to the *TKDE2024*. In this repository, we offer the original sample datasets, preprocessing scripts, and algorithm files to showcase the reproducibility of our work.
+Update: 2025/06/11: We have created a repository for the paper titled *Collaborative Knowledge Fusion: A Novel Method for Multi-task Recommender Systems via LLMs*, which has been accepted to the *TKDE2025*. In this repository, we offer the original sample datasets, preprocessing scripts, and algorithm files to showcase the reproducibility of our work.
 
 ![image-20240120094651475](https://s2.loli.net/2024/01/20/DztabiuLphm4EOA.png)
 
@@ -89,4 +89,4 @@ python evaluate.py ## evaluate file
 
 ## Contact
 
-We will update the contact information and corresponding issue links after the review process is completed.
+You can contact suxing2@lenovo.com or czhaobo@connect.ust.hk.
